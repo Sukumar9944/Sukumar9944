@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sukumar from Chennai, completed my B-Tech degree at Anna University
-- 👀 I’m interested in Workouts
+- 👀 I’m interested in Music Production, Workouts
 - 🌱 I’m currently learning Data Science
 - 📫 You can reach me at marsuku576@gmail.com
 
