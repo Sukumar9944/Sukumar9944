@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sukumar from Chennai, completed my B-Tech degree at Anna University
 - 👀 I’m interested in Workouts
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me at marsuku576@gmail.com
+- 📫 You can reach me at marsuku576@gmail.com
 
 <!---
 Sukumar9944/Sukumar9944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
